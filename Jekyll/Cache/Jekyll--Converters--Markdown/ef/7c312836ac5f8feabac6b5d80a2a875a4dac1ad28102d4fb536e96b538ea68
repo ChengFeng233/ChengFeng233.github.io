@@ -1,9 +1,0 @@
-I"Ë<p><a href="https://github.com/ChengFeng233/USTC_ROBOGAME2025_CV">GitHub repository</a></p>
-
-<p>This repository contains Python and OpenCV code for the robot-vision component of USTC ROBOGAME 2025. It includes camera calibration and distortion correction, AprilTag-based localization, and color and blink detection. The competition scripts combine these signals and communicate with the robot controller over a serial link.</p>
-
-<ul>
-  <li><a href="https://github.com/ChengFeng233/USTC_ROBOGAME2025_CV/tree/main/robogame_cv/biaoding">Camera calibration files</a></li>
-  <li><a href="https://github.com/ChengFeng233/USTC_ROBOGAME2025_CV/tree/main/robogame_cv/result">Detection and integration modules</a></li>
-</ul>
-:ET

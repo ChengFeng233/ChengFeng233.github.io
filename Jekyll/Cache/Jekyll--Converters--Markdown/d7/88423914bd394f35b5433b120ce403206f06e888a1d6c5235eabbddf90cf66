@@ -1,6 +1,0 @@
-I"I<p>I’m Gengyuan Hu. My work spans <strong>multimodal model evaluation</strong> and <strong>applied computer vision</strong>. I’m interested in how models use information across time, from reasoning about changes between clinical exams to interpreting camera observations in robot vision.</p>
-
-<p>In <a href="/projects/eltlm-bench/">ELTLM</a>, we study whether large multimodal models can tell what changed across clinical exams and reason about disease progression. The paper appeared in <strong>Findings of ACL 2026</strong>. I also maintain a <a href="/projects/robogame-vision/">robot-vision codebase</a> covering camera calibration and AprilTag-based localization for USTC ROBOGAME 2025.</p>
-
-<p><a href="https://github.com/ChengFeng233">GitHub</a> · <a href="/publications/">Publications</a> · <a href="/zh/">中文简介</a></p>
-:ET

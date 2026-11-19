@@ -1,14 +1,0 @@
-o:BibTeX::Bibliography
-:@options{:parse_namesT:parse_monthsT:include[:errors:allow_missing_keysF:
-debugF:
-stripF:
-@data[o:BibTeX::Entry
-:@fields{:
-titleo:BibTeX::Value:@tokens[I"_{ELTLM}: Evaluation of Longitudinal Temporal Large Multimodal Models in Clinical Scenarios:ET:authoro:BibTeX::Names;[
-S:BibTeX::Name	:
-firstI"Gengyuan;T:	lastI"Hu;T:prefix0:suffix0S;	;I"Haoxiang;T;I"Liu;T;0;0S;	;I"Chenhong;T;I"Cao;T;0;0S;	;I"Shilei;T;I"Tan;T;0;0S;	;I"Wei;T;I"	Gong;T;0;0:editoro;;[	S;	;I"
-Maria;T;I"Liakata;T;0;0S;	;I"Viviane P.;T;I"Moreira;T;0;0S;	;I"Jiajun;T;I"
-Zhang;T;0;0S;	;I"
-David;T;I"Jurgens;T;0;0:booktitleo;;[I"HFindings of the Association for Computational Linguistics: ACL 2026;T:	yearo;;[I"	2026;T:
-montho;;[:jul:addresso;;[I")San Diego, California, United States;T:publishero;;[I".Association for Computational Linguistics;T:
-pageso;;[I"15765--15779;T:doio;;[I"&10.18653/v1/2026.findings-acl.772;T:urlo;;[I"4https://aclanthology.org/2026.findings-acl.772/;T:	abbro;;[I"ACL Findings;T:	htmlo;;[I"4https://aclanthology.org/2026.findings-acl.772/;T:pdfo;;[I"7https://aclanthology.org/2026.findings-acl.772.pdf;T:	codeo;;[I"0https://github.com/ChengFeng233/ELTLM-Bench;T:websiteo;;[I"=https://huggingface.co/datasets/Chengfeng233/ELTLM-Bench;T:previewo;;[I"eltlm.svg;T:bibtex_showo;;[I"	true;T:selectedo;
