@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#355866"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="360" fill="#142f3a"/>
+  <rect x="48" y="47" width="544" height="240" fill="url(#grid)"/>
+  <path d="M234 112V77H269M371 77H406V112M406 219V254H371M269 254H234V219" fill="none" stroke="#a6e5d6" stroke-width="3"/>
+  <rect x="266" y="111" width="108" height="108" rx="2" fill="#d1eee8"/>
+  <path d="M279 124h82v82h-82z" fill="#142f3a"/>
+  <path d="M291 136h22v22h-22zm24 24h22v22h-22zm24-24h11v22h-11zm0 48h11v11h-11zm-48 0h22v11h-22z" fill="#d1eee8"/>
+  <path d="M89 236H147L215 193M551 99H493L425 148" fill="none" stroke="#83b7ba" stroke-width="2" stroke-dasharray="5 5"/>
+  <circle cx="89" cy="236" r="5" fill="#a6e5d6"/><circle cx="551" cy="99" r="5" fill="#a6e5d6"/>
+  <text x="320" y="320" text-anchor="middle" fill="#daeee8" font-family="system-ui,sans-serif" font-size="19" letter-spacing="3">ROBOT VISION</text>
+</svg>

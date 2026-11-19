@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#112d3b"/>
+  <path d="M48 287H592M48 267H592M48 247H592M48 47V287M592 47V287" fill="none" stroke="#34596a"/>
+  <path d="M142 98H498" stroke="#659eaa" stroke-width="2" stroke-dasharray="5 6"/>
+  <g fill="#a6e5d6">
+    <circle cx="142" cy="98" r="5"/><circle cx="320" cy="98" r="5"/><circle cx="498" cy="98" r="5"/>
+  </g>
+  <g fill="#193e4d" stroke="#6398a3" stroke-width="2">
+    <rect x="88" y="123" width="108" height="108" rx="12"/>
+    <rect x="266" y="123" width="108" height="108" rx="12"/>
+    <rect x="444" y="123" width="108" height="108" rx="12"/>
+  </g>
+  <g fill="none" stroke="#c0f3e7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M105 184L126 184L136 165L147 195L157 178L179 178"/>
+    <path d="M283 184L304 184L314 157L325 202L335 173L357 173"/>
+    <path d="M461 184L482 184L492 150L503 210L513 166L535 166"/>
+  </g>
+  <text x="320" y="320" text-anchor="middle" fill="#daeee8" font-family="system-ui,sans-serif" font-size="19" letter-spacing="3">LONGITUDINAL EVALUATION</text>
+</svg>

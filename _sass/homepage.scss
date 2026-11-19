@@ -1,0 +1,85 @@
+:root {
+  --global-theme-color: #176374;
+  --global-hover-color: #145062;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #8fdddc;
+  --global-hover-color: #b1eeea;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, "Microsoft YaHei", sans-serif;
+}
+
+#light-toggle > i {
+  display: none !important;
+}
+
+#light-toggle::before {
+  content: "◐";
+  font-size: 1.1rem;
+}
+
+html[data-theme-setting="light"] #light-toggle::before {
+  content: "☀";
+}
+
+html[data-theme-setting="dark"] #light-toggle::before {
+  content: "☾";
+}
+
+[role="main"] .post-header {
+  margin-bottom: 1.75rem;
+}
+
+.post-header .post-title {
+  font-weight: 650;
+  letter-spacing: -0.04em;
+}
+
+.post article {
+  line-height: 1.7;
+}
+
+.post article h2, .post article h3 {
+  line-height: 1.25;
+}
+
+.post article .profile {
+  max-width: 15rem;
+  margin-left: 2.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.post article .profile img {
+  border-radius: 0.75rem;
+}
+
+.post article .clearfix + h2 {
+  margin-top: 2.25rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--global-divider-color);
+  text-transform: capitalize;
+}
+
+.projects .row {
+  row-gap: 1.25rem;
+}
+
+.projects .card .card-title {
+  font-size: 1.25rem;
+  font-weight: 650;
+}
+
+.projects .card figure {
+  margin-bottom: 0;
+}
+
+@media (max-width: 575px) {
+  .post article .profile {
+    float: none !important;
+    max-width: 9rem;
+    margin: 0 0 1.25rem;
+  }
+}
