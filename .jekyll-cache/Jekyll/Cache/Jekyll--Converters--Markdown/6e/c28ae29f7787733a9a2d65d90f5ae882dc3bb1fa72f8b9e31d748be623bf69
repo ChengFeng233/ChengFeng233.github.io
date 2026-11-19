@@ -1,0 +1,77 @@
+I"³<div class="projects">
+  <div class="row row-cols-1 row-cols-md-2">
+    
+    
+      <div class="col">
+  <a href="/projects/eltlm-bench/">
+    <div class="card h-100 hoverable">
+      
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+    <img src="/assets/img/publication_preview/eltlm.svg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });" />
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title">ELTLM-Bench</h2>
+        <p class="card-text">Benchmarking temporal perception and reasoning in longitudinal clinical imaging.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+      <div class="col">
+  <a href="/projects/robogame-vision/">
+    <div class="card h-100 hoverable">
+      
+        
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+    <img src="/assets/img/robogame.svg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });" />
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title">USTC ROBOGAME 2025 Vision</h2>
+        <p class="card-text">Camera calibration, AprilTag localization, and visual detection for a competition robot.</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+  </div>
+</div>
+:ET

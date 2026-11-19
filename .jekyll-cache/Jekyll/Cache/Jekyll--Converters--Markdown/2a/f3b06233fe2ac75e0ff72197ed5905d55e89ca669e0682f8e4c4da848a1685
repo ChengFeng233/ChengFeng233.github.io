@@ -1,0 +1,17 @@
+I"^<p><a href="https://aclanthology.org/2026.findings-acl.772/">Paper</a> · <a href="https://aclanthology.org/2026.findings-acl.772.pdf">PDF</a> · <a href="https://github.com/ChengFeng233/ELTLM-Bench">GitHub</a> · <a href="https://huggingface.co/datasets/Chengfeng233/ELTLM-Bench">Dataset</a></p>
+
+<h3 id="research-question">Research question</h3>
+
+<p>Can a large multimodal model compare clinical data from multiple time points and reason about progression, rather than interpreting one exam in isolation?</p>
+
+<h3 id="what-the-benchmark-evaluates">What the benchmark evaluates</h3>
+
+<ul>
+  <li><strong>Temporal Perception QA:</strong> identifies changes between clinical time points.</li>
+  <li><strong>Temporal Reasoning QA:</strong> uses changes across exams to answer questions about progression and related clinical context.</li>
+</ul>
+
+<p>The benchmark is derived from longitudinal chest X-rays in MIMIC-CXR. The evaluation found that the tested models struggled to ground their answers in evidence across time points; the paper reports results and error analyses by task.</p>
+
+<p>The <a href="https://huggingface.co/datasets/Chengfeng233/ELTLM-Bench">dataset repository</a> provides questions and reference answers. Access to the underlying images follows the <a href="https://physionet.org/content/mimic-cxr/2.1.0/">PhysioNet MIMIC-CXR access requirements</a>.</p>
+:ET
